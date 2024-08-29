@@ -1,0 +1,8 @@
+dist/*
+build/*
+py_Unixx.egg-info/*
+pyUnixx_fns.egg-info/
+__pycache__
+test*
+*.log
+.vscode
