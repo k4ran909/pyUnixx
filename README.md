@@ -2,7 +2,6 @@
 
 Core library of [The Unixx](https://github.com/TeamUnixx/Unixx), a python based telegram userbot.
 
-[![CodeFactor](https://www.codefactor.io/repository/github/teamUnixx/pyUnixx/badge)](https://www.codefactor.io/repository/github/teamUnixx/pyUnixx)
 [![PyPI - Version](https://img.shields.io/pypi/v/py-Unixx?style=round)](https://pypi.org/project/py-Unixx)    
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/py-Unixx?label=DOWNLOADS&style=round)](https://pypi.org/project/py-Unixx)    
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TeamUnixx/Unixx/graphs/commit-activity)
